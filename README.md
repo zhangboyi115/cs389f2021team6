@@ -2,7 +2,7 @@
 
 **App name**
 
-**Team** 
+**Team[Boyi Zhang](https://github.com/zhangboyi115)[linlan Cai](https://github.com/lialazyoaf)** 
 
 **App description**
 
