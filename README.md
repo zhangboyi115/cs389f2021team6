@@ -1,6 +1,6 @@
 # cs389f2021team6
 
-**App name**
+**App name: OneHome**
 
 **Team[  Boyi Zhang ](https://github.com/zhangboyi115)[ linlan Cai](https://github.com/lialazyoaf)**
 
