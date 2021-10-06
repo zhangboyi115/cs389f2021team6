@@ -7,6 +7,7 @@
 **App description**
 
 **Idea Proposal**
+[Link to Google](https://docs.google.com/document/d/1Y4O65naMj0IUarM-2nUE2AWCd68yfMldwEiK7t3byJo/edit?usp=sharing)
 
 **Calendar**
 
