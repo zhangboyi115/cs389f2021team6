@@ -1,14 +1,17 @@
 # cs389f2021team6
 
-**App name: OneHome**
-
-**Team[  Boyi Zhang ](https://github.com/zhangboyi115)[ linlan Cai](https://github.com/lialazyoaf)**
-| name | role |
-| :----------- | ------------: |
-| Linlan Cai   | Content Manager |
-| Boyi Zhang     | Product Owner |
+<h2> App name: OneHome </h2>
 
 **App description**
+
+<h2> Team </h2>
+
+| name | role |
+| :----------- | ------------: |
+| [ linlan Cai](https://github.com/lialazyoaf)   | Content Manager |
+| [  Boyi Zhang ](https://github.com/zhangboyi115)| Product Owner |
+
+
 
 
 **[Idea Proposal](https://docs.google.com/document/d/1Y4O65naMj0IUarM-2nUE2AWCd68yfMldwEiK7t3byJo/edit?usp=sharing)**
@@ -21,7 +24,7 @@
 
 **Architecture & Design**
 
-**Content**
+<h2>Content</h2>
 
 **Sprint 1**
 
