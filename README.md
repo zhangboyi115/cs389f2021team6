@@ -6,10 +6,10 @@
 
 <h2> Team </h2>
 
-| name | role |
-| :----------- | ------------: |
-| [ linlan Cai](https://github.com/lialazyoaf)   | Content Manager |
-| [  Boyi Zhang ](https://github.com/zhangboyi115)| Product Owner |
+| Name | Role | Contact info | 
+| :----------- | :------------ | :------------ |
+| [ linlan Cai](https://github.com/lialazyoaf)   | Content Manager | lc03159p@pace.edu |
+| [  Boyi Zhang ](https://github.com/zhangboyi115)| Product Owner | bz21819p@pace.edu |
 
 
 
@@ -18,9 +18,13 @@
 
 **[Calendar](https://calendar.google.com/calendar/u/0/r?cid=aXZoMmU3NjhzMjRkdGlxZWYwcXZvbzhxcjBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)**
 
+<h2>Requirements</h2>
+
 **[Product Backlog](https://docs.google.com/spreadsheets/d/1QwzCyM6pVbFFeJqngEYKHyMZibZs8vGi2wqHhM_M9ok/edit#gid=0)**
 
 **[requirement discovery](https://docs.google.com/document/d/1xq9sqLOsAgHmiw3HjIU4jMCqYH8xzpmiCY6y_SwiUXA/edit)**
+
+<h2>Architecture & Design</h2>
 
 **Architecture & Design**
 
@@ -28,8 +32,8 @@
 
 **Sprint 1**
 
-* Sprint planning
-* Scrums
+* [Sprint planning](https://docs.google.com/spreadsheets/d/1QwzCyM6pVbFFeJqngEYKHyMZibZs8vGi2wqHhM_M9ok/edit?usp=sharing)
+* [Scrums](https://docs.google.com/document/d/1EVroJw5ZFZusgewzSE5HTraL3jY6q_f4F69v_jz60KE/edit?usp=sharing)
 * Sprint demo - video and apk (or equivalent)
 * Spring retrospective
 
