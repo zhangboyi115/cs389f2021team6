@@ -3,6 +3,10 @@
 **App name: OneHome**
 
 **Team[  Boyi Zhang ](https://github.com/zhangboyi115)[ linlan Cai](https://github.com/lialazyoaf)**
+| name | role |
+| :----------- | ------------: |
+| Linlan Cai   | Content Manager |
+| Boyi Zhang     | Product Owner |
 
 **App description**
 
@@ -50,7 +54,4 @@
 
 **Tools**
 
-| Left-aligned | Center-aligned | Right-aligned |
-| :----------- | :------------: | ------------: |
-| git status   |   git status   |    git status |
-| git diff     |    git diff    |      git diff |
+
