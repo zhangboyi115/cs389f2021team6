@@ -1,4 +1,4 @@
-# cs389f2021team6
+
 
 <h2> App name: OneHome </h2>
 
